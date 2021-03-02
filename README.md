@@ -1,2 +1,2 @@
 # Data-Forecasting-using-python-
-Data forecasting using fbprophet library. 
+Data analysis, data visualization, and data forecasting using fbprophet, Pandas, Numpy, Matplotlib library. 
